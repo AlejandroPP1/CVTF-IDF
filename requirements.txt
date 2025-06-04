@@ -1,9 +1,5 @@
 fastapi
-uvicorn
-jinja2
-python-docx
-PyMuPDF
-transformers
-torch
+uvicorn[standard]
 scikit-learn
 numpy
+jinja2
